@@ -5,9 +5,9 @@ Talks are sorted in inverse-chronological order, so the newest talks are always 
 The speakers are in no particular order.
 
 Contributions are more than welcome!    
-So if you can find other talks on YouTube, please open an issue or submit a pull request.
+So if you can find other talks, please open an issue or submit a pull request.
 
-## Talks by Steve Klabnik <[@steveklabnik][steveklabnik]>
+## Talks by Steve Klabnik <[@steveklabnik][steve_klabnik]>
 - [Rust in Production - Philly ETE 2016][aug_16_2016]   
 In this talk, Steve will give an overview of Rust’s value proposition, focusing on examples and anecdotes from companies using Rust in production today.
 - [The History of Rust - ACM][jun_21_2016]   
@@ -21,20 +21,25 @@ In this talk, Steve will show off Rust, a new programming language from Mozilla,
 - [How I manage to be efficient - Web2Day 2015][jun_10_2015]   
 In this talk, Steve will give an overview of Rust and why you might want to choose it for your next project.
 
-## Talks by Alex Crichton <[@alexcrichton][alexcrichton]>
+## Talks by Alex Crichton <[@alexcrichton][alex_crichton]>
 - [The Rust Programming Language - GoogleTechTalks 2015][jun_06_2015]   
 Alex Crichton will present an introduction to the Rust programming language, explain how it can be used to build performant, reliable systems, and answer your questions.
 - [Intro to the Rust programming language - Code & Supply 2014][dec_11_2014]   
 Alex Crichton presents an introduction to the Rust programming language.
 
+## Talks by Aaron Turon <[@aturon][aaron_turon]>
+- [Rust: Unlocking Systems Programming - QCon 2016][feb_07_2016]   
+Aaron Turon explains Rust's core notion of “ownership” and shows how Rust uses it to guarantee thread safety, amongst other things. He also talks about how Rust goes beyond addressing the pitfalls of C++ to do something even more exciting: unlock a new generation of systems programmers by providing a safe, high-level experience -- while never compromising on performance.
 
-[steveklabnik]: https://github.com/steveklabnik
-[alexcrichton]: https://github.com/alexcrichton
+[steve_klabnik]: https://github.com/steveklabnik
+[alex_crichton]: https://github.com/alexcrichton
+[aaron_turon]: https://github.com/aturon
 
 [aug_16_2016]: https://www.youtube.com/watch?v=0emIUsU1_0E
 [jun_21_2016]: https://www.youtube.com/watch?v=79PSagCD_AY
 [apr_22_2016]: https://www.youtube.com/watch?v=Ms3EifxZopg
 [apr_13_2016]: https://www.youtube.com/watch?v=iTSx-8qK4Hw
+[feb_07_2016]: https://www.infoq.com/presentations/rust-thread-safety
 [oct_05_2015]: https://www.youtube.com/watch?v=NaIXIKVxg3M
 [jun_10_2015]: https://www.youtube.com/watch?v=CSYilkhDHzw
 [jun_06_2015]: https://www.youtube.com/watch?v=d1uraoHM8Gg

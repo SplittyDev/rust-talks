@@ -1,7 +1,7 @@
 # rust-talks
 Talks about Rust.
 
-If you do not want any of your talks to be listed here, please open an issue and I'll remove it immediately.   
+If you do not want some or any of your talks to be listed here, please open an issue and I'll remove them immediately.   
 Talks are sorted in inverse-chronological order, so the newest talks are always at the top.
 
 ## Talks by [@steveklabnik][steveklabnik]

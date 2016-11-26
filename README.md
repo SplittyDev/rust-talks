@@ -22,7 +22,7 @@ In this talk, Steve will show off Rust, a new programming language from Mozilla,
 In this talk, Steve will give an overview of Rust and why you might want to choose it for your next project.
 
 ## Talks by Alex Crichton <[@alexcrichton][alex_crichton]>
-- [State of Rust 2016 - Rust Meetup Cologne 2016][jun_06_2016]
+- [State of Rust 2016 - Rust Meetup Cologne 2016][jun_06_2016_0]
 - [The Rust Programming Language - GoogleTechTalks 2015][jun_06_2015]   
 Alex Crichton will present an introduction to the Rust programming language, explain how it can be used to build performant, reliable systems, and answer your questions.
 - [Intro to the Rust programming language - Code & Supply 2014][dec_11_2014]   
@@ -35,16 +35,21 @@ Aaron Turon explains Rust's core notion of “ownership” and shows how Rust us
 ## Talks by Jan-Erik Rediger <[@badboy][jan_erik_rediger]>
 - [Compiling Rust to asm.js - Rust Meetup Cologne 2016][sep_05_2016]
 
+## Talks by Kai Michaelis <[@fluffly][kai_michaelis]>
+- [Why port 10k LOC to Rust - Rust Meetup Cologne 2016][jun_06_2016_1]
+
 
 [steve_klabnik]: https://github.com/steveklabnik
 [alex_crichton]: https://github.com/alexcrichton
 [aaron_turon]: https://github.com/aturon
 [jan_erik_rediger]: https://github.com/badboy
+[kai_michaelis]: https://github.com/flanfly
 
 [sep_05_2016]: https://www.youtube.com/watch?v=bvJCMhJ3RnQ
 [aug_16_2016]: https://www.youtube.com/watch?v=0emIUsU1_0E
 [jun_21_2016]: https://www.youtube.com/watch?v=79PSagCD_AY
-[jun_06_2016]: https://www.youtube.com/watch?v=mRGb4hoGuPs
+[jun_06_2016_0]: https://www.youtube.com/watch?v=mRGb4hoGuPs
+[jun_06_2016_1]: https://www.youtube.com/watch?v=xJZn87oqjrY
 [apr_22_2016]: https://www.youtube.com/watch?v=Ms3EifxZopg
 [apr_13_2016]: https://www.youtube.com/watch?v=iTSx-8qK4Hw
 [feb_07_2016]: https://www.infoq.com/presentations/rust-thread-safety

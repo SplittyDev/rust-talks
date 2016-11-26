@@ -31,10 +31,15 @@ Alex Crichton presents an introduction to the Rust programming language.
 - [Rust: Unlocking Systems Programming - QCon 2016][feb_07_2016]   
 Aaron Turon explains Rust's core notion of “ownership” and shows how Rust uses it to guarantee thread safety, amongst other things. He also talks about how Rust goes beyond addressing the pitfalls of C++ to do something even more exciting: unlock a new generation of systems programmers by providing a safe, high-level experience -- while never compromising on performance.
 
+## Talks by Jan-Erik Rediger <[@badboy][jan_erik_rediger]>
+- [Compiling Rust to asm.js - Rust Meetup Cologne 2016][sep_05_2016]
+
 [steve_klabnik]: https://github.com/steveklabnik
 [alex_crichton]: https://github.com/alexcrichton
 [aaron_turon]: https://github.com/aturon
+[jan_erik_rediger]: https://github.com/badboy
 
+[sep_05_2016]: https://www.youtube.com/watch?v=bvJCMhJ3RnQ
 [aug_16_2016]: https://www.youtube.com/watch?v=0emIUsU1_0E
 [jun_21_2016]: https://www.youtube.com/watch?v=79PSagCD_AY
 [apr_22_2016]: https://www.youtube.com/watch?v=Ms3EifxZopg

@@ -4,8 +4,8 @@ Talks about Rust.
 Talks are sorted in inverse-chronological order, so the newest talks are always at the top.   
 The speakers are in no particular order.
 
-Contributions are more than welcome.   
-If you can find other talks on YouTube, please open an issue or submit a pull request.
+Contributions are more than welcome!    
+So if you can find other talks on YouTube, please open an issue or submit a pull request.
 
 ## Talks by Steve Klabnik <[@steveklabnik][steveklabnik]>
 - [Rust in Production - Philly ETE 2016][aug_16_2016]   

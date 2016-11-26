@@ -5,9 +5,14 @@ If you do not want any of your talks to be listed here, please open an issue and
 Talks are sorted in inverse-chronological order, so the newest talks are always at the top.
 
 ## Talks by [@steveklabnik][steveklabnik]
-- [Rust in Production - Philly ETE 2016][aug_16_2016]
-- [How I manage to be efficient - Web2Day 2015][jun_10_2015]
+- [Rust in Production - Philly ETE 2016][aug_16_2016]   
+In this talk, Steve will give an overview of Rust’s value proposition, focusing on examples and anecdotes from companies using Rust in production today.
+- [Using Rust with Ruby - Ancient City Ruby 2016][apr_22_2016]   
+In this talk, Steve will show off the Rust programming language and how to integrate it with Ruby.
+- [How I manage to be efficient - Web2Day 2015][jun_10_2015]   
+In this talk, Steve will give an overview of Rust and why you might want to choose it for your next project.
 
 [steveklabnik]: https://github.com/steveklabnik
 [aug_16_2016]: https://www.youtube.com/watch?v=0emIUsU1_0E
+[apr_22_2016]: https://www.youtube.com/watch?v=Ms3EifxZopg
 [jun_10_2015]: https://www.youtube.com/watch?v=CSYilkhDHzw

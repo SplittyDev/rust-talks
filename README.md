@@ -71,12 +71,17 @@ Aaron Turon explains Rust's core notion of “ownership” and shows how Rust us
 ## Talks by Kai Michaelis <[@fluffly][kai_michaelis]>
 - [Why port 10k LOC to Rust - Rust Meetup Cologne 2016][jun_06_2016_1]
 
+## Talks by Felix Klock <[@pnkfelix][felix_klock]>
+- [Subtyping in Rust and Clarke's Third Law][nov_11_2016]   
+This is a talk about magic. In particular: Rust has subtyping, but it may not be in the place where you thought it was. My primary goal is to explain that metaphorical sleight-of-hand, in two parts. My secondary goal is to convey that most of the time you need not think about subtyping, except when doing particularly hairy data structure development where questions arise around “variance.”
+
 
 [steve_klabnik]: https://github.com/steveklabnik
 [alex_crichton]: https://github.com/alexcrichton
 [aaron_turon]: https://github.com/aturon
 [jan_erik_rediger]: https://github.com/badboy
 [kai_michaelis]: https://github.com/flanfly
+[felix_klock]: https://github.com/pnkfelix
 
 [rustconf16_0]: https://youtu.be/bcrzfivXpc4
 [rustconf16_1]: https://youtu.be/YTy_JOxGOd4
@@ -88,6 +93,7 @@ Aaron Turon explains Rust's core notion of “ownership” and shows how Rust us
 [rustconf16_7]: https://youtu.be/pTQxHIzGqFI
 [rustconf16_8]: https://youtu.be/SKtQgFBRUvQ
 
+[nov_11_2016]: https://www.youtube.com/watch?v=fI4RG_uq-WU
 [sep_05_2016]: https://www.youtube.com/watch?v=bvJCMhJ3RnQ
 [aug_16_2016]: https://www.youtube.com/watch?v=0emIUsU1_0E
 [jun_21_2016]: https://www.youtube.com/watch?v=79PSagCD_AY
